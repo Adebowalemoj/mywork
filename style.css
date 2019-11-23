@@ -1,0 +1,29 @@
+body{ background-image: url(aaa.jpg)  ; background-size: cover;}
+
+
+h2 {color: rgb(205, 136, 0); text-align: center
+    ;border:10px solid rgb(44, 101, 128) ;
+cursor: pointer;}
+
+
+p{line-height: 50px;
+font-style: italic;
+font-weight: bold;
+font-size: medium;
+font-family:font-family: 'Dancing Script', cursive;}
+
+
+
+
+p {color:6F256F ;
+}
+p {color: rgb(6, 2, 24);
+font-size: 40px;}
+img{
+    float: left;
+}
+span {font-size: 2em;
+font-style:font-family: 'Playfair Display', serif;}
+   
+li{ list-style: none;
+display: inline-block;}
